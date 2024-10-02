@@ -75,7 +75,7 @@ This project is open-source and available under the [MIT License](https://openso
 If you have any questions, feel free to reach out:
 
 - **Author**: Moges Retta
-- **Email**: [moges.retta@gmail.com] (Replace with actual email)
+- **Email**: [moges.retta@gmail.com]
 - **GitHub**: [Moges-Retta](https://github.com/Moges-Retta)
 
 ---
