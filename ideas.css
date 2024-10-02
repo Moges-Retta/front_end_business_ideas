@@ -1,0 +1,294 @@
+*{
+    margin:0;
+    padding:0;
+}
+#wrapper{
+    width: 940px;
+    background-color:snow;
+    margin: auto;
+    border: 3px solid grey;
+}
+#extraMenus{
+    margin-left: 140px;
+}
+body{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: #333;
+    font-size: 14px;
+    line-height:18px;
+    background: white; /* Old browsers */
+    background: -moz-linear-gradient(top,  #96c56f 0%, #a9db80 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  #96c56f 0%,#a9db80 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  #96c56f 0%,#a9db80 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#96c56f', endColorstr='#a9db80',GradientType=0 ); /* IE6-9 */
+    height: auto;
+}
+.footer{
+    color:#777;
+    font-size: 90%;
+    clear:both;
+    background-color:RGB(89,55,35);
+    border: 3px solid RGB(89,55,35);
+}
+
+.column, .column1{
+    float: left;
+}
+
+.left {
+    width: 25%;
+    background-color: snow;
+    height: 100%;
+}
+.right{
+    width: 5%;
+    background-color: snow;
+    height: 100%;
+}
+.left ul li {
+    padding:15px;
+}
+
+.left1, .right1 {
+    width: 20%;
+    background-color: snow;
+    height: 100%;
+}
+
+.right{
+    float: right;
+    height: 100%;
+    text-align: center;
+}
+.right1{
+    float: right;
+    height: 100%;
+    padding-top: 10px;
+}
+.middle {
+    text-align: justify;
+    width: 70%;
+    background-color: snow;
+    padding: 10px;
+}
+.middle1 {
+    width: 60%;
+    background-color: lightseagreen;
+    height: 100%;
+    padding-top: 10px;
+}
+
+.row2Home:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.row2:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.row1:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.row1 {
+    background-color: lightseagreen;
+    width: 100%;
+}
+.row2Home{
+    background-image: url("images/ethiopia.png");
+    background-repeat: no-repeat;
+    background-size: 937px;
+    padding-bottom: 100px;
+}
+.row3 {
+    background-color: black;
+    color:white;
+    height:75px;
+}
+.row3 a{
+    color:white;
+}
+.row4:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+a {
+    display: block;
+    text-decoration: none;
+}
+h1 a{
+    text-decoration: none;
+    margin: 0 5px;
+}
+nav,ul {
+    list-style-type: none;
+}
+li a{
+    font-size: 15px;
+    display: inline;
+}
+nav a{
+    float: left;
+    display: block;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 5px 5px;
+}
+nav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+nav a.active {
+    background-color: #4CAF50;
+    color: red;
+}
+.list-item
+{
+    float: left;
+    clear: both;
+}
+input{
+    width: 50%;
+}
+
+dt {
+    font-weight: bold;
+    margin-top: 0.5em;
+    font-size: 1.6em;
+
+}
+dd, dt {
+    margin-left: 0;
+
+}
+dd{
+    line-height: 30px;
+    font-size: 1.2em;
+}
+.error {
+    color: red;
+}
+.sucess{
+    color: green;
+}
+
+#title{
+    margin-left: 10px;
+    margin-bottom: 0;
+}
+#logo{
+    width: 934px;
+}
+#ideas {
+    width:300px;
+    height:400px;
+    overflow-x:auto;
+    overflow-y:auto;
+}
+img{
+    width:available;
+    float: left;
+}
+
+.fb-like{
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.leftHome {
+    width: 0%;
+    background-color: snow;
+    height: 100%;
+}
+.rightHome{
+    width: 50%;
+    height: 100%;
+    float: right;
+}
+.middleHome {
+    text-align: justify;
+    width: 40%;
+    background-color: snow;
+    padding: 10px;
+
+}
+.searchHome {
+    padding-top: 10px;
+    padding-left: 50px;
+}
+.moto{
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.featured{
+    padding-left: 25px;
+    width:400px;
+    height:300px;
+    overflow-y:auto;
+}
+.featuredTitle{
+    margin-left: 25px;
+}
+#buttonGroup{
+    float: right;
+    width: 500px;
+    line-height: 35px;
+    display: inline;
+}
+#buttonGroup form{
+    display: inline;
+}
+#buttonGroup form button{
+    margin: 5px;
+    padding: 3px;
+    font-size: 16px;
+    font-family: Arial;
+}
+#buttonGroupTitle{
+    padding-left: 8px
+}
+#print{
+    font-size: 24px;
+    color:white;
+    border: none;
+    background-color: red;
+}
+
+#send{
+    font-size: 24px;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}

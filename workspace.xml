@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f885764-d6ce-4e3f-a102-202eaeec045c" name="Default Changelist" comment="push to remote" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$/ideas" value="frontend" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.1.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i6ZHxTYsgSUWlaXqI87ieH3yEx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\angel\OneDrive\Documents\BusinessInEthio\.idea\images" />
+      <recent name="C:\Users\angel\OneDrive\Documents\BusinessInEthio\.idea" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\angel\OneDrive\Documents\BusinessInEthio\.idea\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FrontEndProject/.idea/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f885764-d6ce-4e3f-a102-202eaeec045c" name="Default Changelist" comment="" />
+      <created>1601229927973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601229927973</updated>
+      <workItem from="1601229929556" duration="31068000" />
+      <workItem from="1602750091286" duration="104000" />
+      <workItem from="1602750414457" duration="342000" />
+      <workItem from="1602750821643" duration="21228000" />
+      <workItem from="1602783472519" duration="10274000" />
+      <workItem from="1603014147152" duration="4207000" />
+      <workItem from="1603371467147" duration="80372000" />
+      <workItem from="1603749555616" duration="48795000" />
+      <workItem from="1603962516775" duration="31045000" />
+      <workItem from="1604243218737" duration="17006000" />
+      <workItem from="1604945263524" duration="13586000" />
+      <workItem from="1605120190901" duration="4473000" />
+      <workItem from="1607881688698" duration="2048000" />
+      <workItem from="1608907871581" duration="3729000" />
+      <workItem from="1609237195675" duration="6131000" />
+      <workItem from="1609277316415" duration="5331000" />
+      <workItem from="1610809055436" duration="96000" />
+      <workItem from="1640347368973" duration="5375000" />
+      <workItem from="1640636131576" duration="1951000" />
+      <workItem from="1640957365418" duration="2794000" />
+      <workItem from="1641132247800" duration="1147000" />
+      <workItem from="1642347456707" duration="731000" />
+      <workItem from="1642350041566" duration="4966000" />
+      <workItem from="1642525548860" duration="1100000" />
+      <workItem from="1642587354872" duration="44000" />
+      <workItem from="1642593177631" duration="2650000" />
+      <workItem from="1642606879521" duration="1620000" />
+      <workItem from="1644435669072" duration="17000" />
+      <workItem from="1727355319341" duration="3409000" />
+      <workItem from="1727369509563" duration="3329000" />
+      <workItem from="1727376064516" duration="218000" />
+      <workItem from="1727376581794" duration="390000" />
+      <workItem from="1727377129626" duration="597000" />
+      <workItem from="1727377905668" duration="183000" />
+      <workItem from="1727384184899" duration="2968000" />
+      <workItem from="1727388468924" duration="20000" />
+      <workItem from="1727431419950" duration="1226000" />
+      <workItem from="1727465157595" duration="3984000" />
+      <workItem from="1727713113164" duration="1085000" />
+    </task>
+    <task id="LOCAL-00001" summary="Search box works&#10;Advanced search for budget and city are disabled">
+      <created>1602795306967</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602795306967</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Search bow works&#10;About, resources and buyme a coffee button added;&#10;Footer adjusted&#10;Website works fine">
+      <created>1603467146410</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603467146410</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Facebook like&#10;background image&#10;all features are functional&#10;Styling and functionality are done">
+      <created>1603497659231</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603497659231</updated>
+    </task>
+    <task id="LOCAL-00004" summary="The search box didnt work on other pages but that was fixed. Nav menu included a search tab when the search is done.">
+      <created>1603559133511</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603559133511</updated>
+    </task>
+    <task id="LOCAL-00005" summary="3 image files are removed">
+      <created>1603559313210</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603559313210</updated>
+    </task>
+    <task id="LOCAL-00006" summary="HTML validation done for all pages">
+      <created>1603562119305</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603562119305</updated>
+    </task>
+    <task id="LOCAL-00007" summary="random number generator is used to select categories of the featured projects">
+      <created>1603751128212</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603751128212</updated>
+    </task>
+    <task id="LOCAL-00008" summary="project ethio title was added&#10;About was moved to footer&#10;Database includes chemicals category">
+      <created>1603810599768</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1603810599768</updated>
+    </task>
+    <task id="LOCAL-00009" summary="social media buttons added on about page">
+      <created>1603835635204</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1603835635204</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Additional pages for &#10;register.html&#10;contact.html&#10;were created.&#10;Additional files such as &#10;LOGO.png &#10;about.html&#10;ethiopia.png&#10;were added">
+      <created>1603926126805</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1603926126805</updated>
+    </task>
+    <task id="LOCAL-00011" summary="new page register.html&#10;and style of search.html was adjusted">
+      <created>1603926309725</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1603926309725</updated>
+    </task>
+    <task id="LOCAL-00012" summary="registration of user is now possible&#10;database however allows double entries">
+      <created>1603975757634</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1603975757634</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Double entry avoided&#10;User already exists message is now displayed incase of the same email adress in use">
+      <created>1604002733712</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1604002733712</updated>
+    </task>
+    <task id="LOCAL-00014" summary="facebook like button smaller">
+      <created>1604073074051</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1604073074051</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Bug fixed, the selected project from featured lists was not shown directly">
+      <created>1604524310257</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1604524310257</updated>
+    </task>
+    <task id="LOCAL-00016" summary="List of catagories is read once in a database and set in sessionstorage so that frequent data read of 2MB data is avoided.">
+      <created>1604526384460</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1604526384460</updated>
+    </task>
+    <task id="LOCAL-00017" summary="productdetails page was adjusted to leave  out a title when a paragraph for that title doesnt exist.">
+      <created>1604620476989</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1604620476990</updated>
+    </task>
+    <task id="LOCAL-00018" summary="css for dd, added font-size 1.3 and line height 30px">
+      <created>1604957894544</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1604957894544</updated>
+    </task>
+    <task id="LOCAL-00019" summary="email me link, print button were added&#10;search page displays results on the left with the first search result on the middle&#10;search box removed from about page&#10;project ideas are now have 11 catagories">
+      <created>1604970005998</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1604970005998</updated>
+    </task>
+    <task id="LOCAL-00020" summary="about page text corrected&#10;button group on click stores project catagory name instead of name(count)">
+      <created>1605132590956</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1605132590956</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Final entry for DB done.">
+      <created>1608920822947</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1608920822947</updated>
+    </task>
+    <task id="LOCAL-00022" summary="gave him to gave us">
+      <created>1727384390501</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1727384390501</updated>
+    </task>
+    <task id="LOCAL-00023" summary="gave him to gave us">
+      <created>1727385021058</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1727385021058</updated>
+    </task>
+    <task id="LOCAL-00024" summary="deleted">
+      <created>1727385320562</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1727385320562</updated>
+    </task>
+    <task id="LOCAL-00025" summary="jdk 21">
+      <created>1727385550501</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1727385550501</updated>
+    </task>
+    <task id="LOCAL-00026" summary="folder was not part of this app">
+      <created>1727386063509</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1727386063509</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Copy right 2021 to 2024">
+      <created>1727467841390</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1727467841390</updated>
+    </task>
+    <task id="LOCAL-00028" summary="href was changed from projectethio.com to&#10;https://sites.google.com/site/projectethio/">
+      <created>1727468059113</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1727468059113</updated>
+    </task>
+    <task id="LOCAL-00029" summary="push to remote">
+      <created>1727468769049</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1727468769049</updated>
+    </task>
+    <task id="LOCAL-00030" summary="push to remote">
+      <created>1727468921415</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1727468921415</updated>
+    </task>
+    <task id="LOCAL-00031" summary="push to remote">
+      <created>1727468936000</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1727468936000</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/ideas/out/artifacts/ideas_jar" />
+      <path value="$PROJECT_DIR$/ideas" />
+      <path value="$PROJECT_DIR$/ideas/businessethiopia" />
+      <path value="$PROJECT_DIR$/ideas/out/artifacts/Ideas" />
+    </ignored-roots>
+    <MESSAGE value="HTML validation done for all pages" />
+    <MESSAGE value="random number generator is used to select categories of the featured projects" />
+    <MESSAGE value="project ethio title was added&#10;About was moved to footer&#10;Database includes chemicals category" />
+    <MESSAGE value="social media buttons added on about page" />
+    <MESSAGE value="Nonuser table and corresponding maping, repository and service was made to store entry from registration form" />
+    <MESSAGE value="Additional pages for &#10;register.html&#10;contact.html&#10;were created.&#10;Additional files such as &#10;LOGO.png &#10;about.html&#10;ethiopia.png&#10;were added" />
+    <MESSAGE value="new page register.html&#10;and style of search.html was adjusted" />
+    <MESSAGE value="registration of user is now possible&#10;database however allows double entries" />
+    <MESSAGE value="Double entry avoided&#10;User already exists message is now displayed incase of the same email adress in use" />
+    <MESSAGE value="NonUserController includes get request to check email adress and returns the id of the user" />
+    <MESSAGE value="facebook like button smaller" />
+    <MESSAGE value="Bug fixed, the selected project from featured lists was not shown directly" />
+    <MESSAGE value="List of catagories is read once in a database and set in sessionstorage so that frequent data read of 2MB data is avoided." />
+    <MESSAGE value="productdetails page was adjusted to leave  out a title when a paragraph for that title doesnt exist." />
+    <MESSAGE value="css for dd, added font-size 1.3 and line height 30px" />
+    <MESSAGE value="email me link, print button were added&#10;search page displays results on the left with the first search result on the middle&#10;search box removed from about page&#10;project ideas are now have 11 catagories" />
+    <MESSAGE value="about page text corrected&#10;button group on click stores project catagory name instead of name(count)" />
+    <MESSAGE value="Final entry for DB done." />
+    <MESSAGE value="gave him to gave us" />
+    <MESSAGE value="deleted" />
+    <MESSAGE value="jdk 21" />
+    <MESSAGE value="folder was not part of this app" />
+    <MESSAGE value="Copy right 2021 to 2024" />
+    <MESSAGE value="href was changed from projectethio.com to&#10;https://sites.google.com/site/projectethio/" />
+    <MESSAGE value="push to remote" />
+    <option name="LAST_COMMIT_MESSAGE" value="push to remote" />
+  </component>
+</project>
